@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates the .git. So that it creates the framwork to record commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+When you make a change, you add it to the staging area.
