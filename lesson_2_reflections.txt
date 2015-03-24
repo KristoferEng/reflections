@@ -9,3 +9,6 @@ When I want to deviate and experiment, it is good to use branches. Branches help
 
 How do the diagrams help you visualize the branch structure?
 They help me understand the different experimental features that are being added.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is a new commit. Because it now has the same commits as parents just in different orders.
